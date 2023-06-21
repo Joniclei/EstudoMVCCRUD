@@ -39,7 +39,7 @@ namespace PV
       int indice;
 
       Console.WriteLine("DIGITE O INDICE");
-      idade = Convert.ToInt32(Console.ReadLine());
+      indice = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Nome:");
       nome = Console.ReadLine();
       Console.WriteLine("Idade");
@@ -47,7 +47,7 @@ namespace PV
       Console.WriteLine("cpf");
       cpf = Convert.ToInt32(Console.ReadLine());
 
-      PC.PessoasC.Criar(nome, idade, cpf);
+      PC.PessoasC.UP(indice,nome, idade, cpf);
 
     }
 

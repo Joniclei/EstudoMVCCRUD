@@ -14,6 +14,11 @@ namespace PC
       return PM.PessoasM.ListM();
     }
 
+    public static void UP(int indice,string nome,int idade,int cpf)
+    {
+      PM.PessoasM.UP(indice, nome, idade, cpf);
+    }
+
     }
 
   }

@@ -1,4 +1,5 @@
 using System;
+using System.Reflection.PortableExecutable;
 using System.Security.Cryptography;
 
 namespace PM{
@@ -19,8 +20,20 @@ namespace PM{
       return PR.PessoasR.Listar();
     }
 
+    public static void UP(int indice,string nome,int idade,int cpf)
+    {
+      PessoasM pessoasM = PR.PessoasR.Listar()[indice];
+      pessoasM.Nome = nome;
+      pessoasM.Idade = idade;
+      pessoasM.Cpf = cpf;
+      PR.PessoasR.UP(indice,pessoasM);
+    }
+   
+
+
     public override string ToString(){
       return Nome+ "   "+Idade+"CPF"+Cpf;
     }
+
   }
 }

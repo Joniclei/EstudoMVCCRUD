@@ -13,5 +13,10 @@ namespace PR{
       return pessoinha;
     }
 
+    public static void UP(int indice,PM.PessoasM persona)
+    {
+      pessoinha [indice] = persona;
+    }
+
     }
   }
