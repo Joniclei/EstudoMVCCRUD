@@ -28,7 +28,11 @@ namespace PM{
       pessoasM.Cpf = cpf;
       PR.PessoasR.UP(indice,pessoasM);
     }
-   
+
+    public static void Deletar(int indice )
+    {
+      PR.PessoasR.Deletar(indice);
+    }
 
 
     public override string ToString(){

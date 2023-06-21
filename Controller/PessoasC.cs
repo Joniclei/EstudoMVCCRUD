@@ -1,5 +1,5 @@
 using System;
-
+using System.Security.Cryptography.X509Certificates;
 
 namespace PC
 {
@@ -18,6 +18,11 @@ namespace PC
     {
       PM.PessoasM.UP(indice, nome, idade, cpf);
     }
+
+    public static void Deletar(int indice)
+    {
+      PM.PessoasM.Deletar(indice);
+          }
 
     }
 

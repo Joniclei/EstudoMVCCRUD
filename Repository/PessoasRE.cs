@@ -18,5 +18,10 @@ namespace PR{
       pessoinha [indice] = persona;
     }
 
+    public static void Deletar(int indice)
+    {
+      pessoinha.RemoveAt(indice);
+    }
+
     }
   }

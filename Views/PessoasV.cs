@@ -50,6 +50,14 @@ namespace PV
       PC.PessoasC.UP(indice,nome, idade, cpf);
 
     }
+    public static void Deletar()
+    {
+      int indice;
+      Console.WriteLine("DIGITE O INDICE");
+      indice = Convert.ToInt32(Console.ReadLine());
+
+      PC.PessoasC.Deletar(indice);
+    }
 
 
   }

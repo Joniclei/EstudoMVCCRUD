@@ -30,7 +30,7 @@ namespace PessoasMain
           break;
         }
         case 4:{
-
+            PV.PessoasV.Deletar();
           break;
         }
       }
