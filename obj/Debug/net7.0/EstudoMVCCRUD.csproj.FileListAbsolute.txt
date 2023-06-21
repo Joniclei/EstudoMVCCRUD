@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/bin/Debug/net7.0/EstudoMVCCRUD
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/bin/Debug/net7.0/EstudoMVCCRUD.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/bin/Debug/net7.0/EstudoMVCCRUD.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/bin/Debug/net7.0/EstudoMVCCRUD.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/bin/Debug/net7.0/EstudoMVCCRUD.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/refint/EstudoMVCCRUD.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/EstudoMVCCRUD.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoMVCCRUD/obj/Debug/net7.0/ref/EstudoMVCCRUD.dll

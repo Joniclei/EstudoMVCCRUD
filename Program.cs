@@ -17,19 +17,20 @@ namespace PessoasMain
       op = Convert.ToInt32(Console.ReadLine());
       switch(op){
         case 1:{
-
+            PV.PessoasV.Criar();
           break;
         }
         case 2:{
+            PV.PessoasV.Listar();
 
           break;
         }
         case 3:{
-
+            PV.PessoasV.Trocar();
           break;
         }
         case 4:{
-         
+
           break;
         }
       }
